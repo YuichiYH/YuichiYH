@@ -39,5 +39,5 @@ I like to create new things and helping others that seem to need help.
 </div>
 
 ## 🌟 Github Stats
-<img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuichiYH)](https://github.com/anuraghazra/github-readme-stats)"
+<img src="https://github-readme-stats.vercel.app/api?username=YuichiYH"/>
 
