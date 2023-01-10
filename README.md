@@ -39,5 +39,5 @@ I like to create new things and helping others that seem to need help.
 </div>
 
 ## 🌟 Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=YuichiYH"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YuichiYH&theme=tokyonight"/>
 
