@@ -5,7 +5,7 @@ Im Computer Science student in Brazil that loves leaning new technologies and ch
 I like to create new things and helping others that seem to need help.
 
 # 💾 Known Programming Languages
-<div>
+<div align="center">
   
   ### 🥇 Advanced knowledge
   <p>
