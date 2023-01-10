@@ -7,5 +7,5 @@ I like to create new things and helping others that seem to need help.
 ## ☄️ About me
 
 <div>
-<img src="https://user-images.githubusercontent.com/64170401/211667267-405edee5-42e2-4c79-86cc-7d374bcec97d.gif" width="300" height="169" align="left"/>
+  <img src="https://user-images.githubusercontent.com/64170401/211667905-dfc80482-b828-4b61-865c-0e7ed41bf7b6.gif" width="300" height="169" align="left"/>
 </div>
