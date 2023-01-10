@@ -45,5 +45,5 @@ I like to create new things and helping others that seem to need help.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuichiYH&theme=tokyonight" height="200"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pedrosincero&theme=discord"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=YuichiYH&theme=tokyonight"/>
 </p>
