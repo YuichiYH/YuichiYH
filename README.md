@@ -6,7 +6,8 @@ I like to create new things and helping others that seem to need help.
 
 # 💾 Known Programming Languages
 <div>
-### 🥇 Advanced knowledge
+  
+  ### 🥇 Advanced knowledge
   <p>
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   </p>
