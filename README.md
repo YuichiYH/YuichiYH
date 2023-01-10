@@ -30,7 +30,7 @@ I like to create new things and helping others that seem to need help.
 ## ☄️ About me
 
 <div>
-  <img src="https://user-images.githubusercontent.com/64170401/211667905-dfc80482-b828-4b61-865c-0e7ed41bf7b6.gif" height="180" align="right"/>
+  <img src="https://user-images.githubusercontent.com/64170401/211667905-dfc80482-b828-4b61-865c-0e7ed41bf7b6.gif" height="200" align="right"/>
   <div align="left">
     <p> - 🤖 Do have some knoledge in <a href"https://github.com/YuichiYH/python-machine-learning">Neural Network</a> and im very curious about AI</p>
     <p> - 🎮 I like to create <a href="https://github.com/YuichiYH/Discord-Bot">bots</a>, most for quality of life and fun for me and my friends</p>
@@ -40,6 +40,6 @@ I like to create new things and helping others that seem to need help.
 
 ## 🌟 Github Stats
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=YuichiYH&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuichiYH&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YuichiYH&theme=tokyonight" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuichiYH&theme=tokyonight" height="200"/>
 </p>
