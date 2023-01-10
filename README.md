@@ -37,3 +37,7 @@ I like to create new things and helping others that seem to need help.
     <p> - 🌌 I'm a great fan of the book Hitchhiker's Guide To The Galaxy</p>
   </div>
 </div>
+
+## 🌟 Github Stats
+<img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuichiYH)](https://github.com/anuraghazra/github-readme-stats)"
+
