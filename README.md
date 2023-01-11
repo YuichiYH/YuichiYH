@@ -28,11 +28,10 @@ I like to create new things and helping others that seem to need help.
 </div>
 
 ## ☄️ About me
-
 <div>
   <img src="https://user-images.githubusercontent.com/64170401/211667905-dfc80482-b828-4b61-865c-0e7ed41bf7b6.gif" height="180" align="right"/>
   <div align="left">
-    <p> - 🤖 Do have some knoledge in <a href"https://github.com/YuichiYH/python-machine-learning">Neural Network</a> and im very curious about AI</p>
+    <p> - 🤖 Do have some knoledge in <a href="https://github.com/YuichiYH/python-machine-learning">Neural Network</a> and im very curious about AI</p>
     <p> - 💬 I like to create <a href="https://github.com/YuichiYH/Discord-Bot">bots</a>, most for quality of life and fun for me and my friends</p>
     <p> - 📜 Fascinated in Theoredical Geometry, like Tesseracts and Hyperspheres</p>
     <p> - 🌌 I'm a great fan of the book Hitchhiker's Guide To The Galaxy</p>
