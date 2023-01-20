@@ -24,6 +24,8 @@ I like to create new things and helping others that seem to need help.
   ### 🥉 Still learning
   <p>
     <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
+    <img src="https://img.shields.io/badge/node-%237F52FF.svg?style=for-the-badge&logo=node&logoColor=white">
+    <img src="https://img.shields.io/badge/typescript-%237F52FF.svg?style=for-the-badge&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
   </p>
 </div>
