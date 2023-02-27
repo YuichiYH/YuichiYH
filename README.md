@@ -12,7 +12,7 @@ I like to create new things and helping others that seem to need help.
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   </p>
 
-  ### 🥈 Know the basics
+  ### 🥈 Basic knowledge
   <p>
     <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
@@ -21,7 +21,7 @@ I like to create new things and helping others that seem to need help.
     <img src="https://img.shields.io/badge/java-%231572B6.svg?style=for-the-badge&logo=java&logoColor=white">
   </p>
 
-  ### 🥉 Still learning
+  ### 🥉 Currently Learning
   <p>
     <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
     <img src="https://img.shields.io/badge/typescript-%237F52FF.svg?style=for-the-badge&logo=typescript&logoColor=white">
