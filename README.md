@@ -41,15 +41,6 @@ I like to create new things and helping others that seem to need help.
   </div>
 </div>
 
-## 🌟 Github Stats
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YuichiYH&theme=tokyonight&show_icons=true" height="200"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YuichiYH&theme=tokyonight" height="200"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YuichiYH&theme=tokyonight&row=1"/>
-</p>
-
 ## 📱 Contacts
 <p align="center">
   <a href="https://www.linkedin.com/in/yuichiyh"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
